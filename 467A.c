@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                            // Problem 467A- George and Accomodation
 int main() {
     int n,p,q;
     int count=0;
