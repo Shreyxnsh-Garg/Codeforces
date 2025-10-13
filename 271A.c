@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                        //Problem 271A - Beautiful Year
 int main()
 {
     int y;
