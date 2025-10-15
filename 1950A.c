@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                    //Problem 1950A- Stair,Peak, or Neither
 int main()
 {
     int n, a, b, c;
