@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                            //Problem 546A- Soldier and Bananas
 int main() {
     int n,k,w,pay=0;
     scanf("%d %d %d",&k,&n,&w);
