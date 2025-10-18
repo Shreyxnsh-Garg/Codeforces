@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                    //Problem 617A-Elephant
 int main() {
     int x,step=0;
     scanf("%d",&x);
