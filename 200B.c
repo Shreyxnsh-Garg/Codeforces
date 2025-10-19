@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                    //Problem 200B- Drinks
 int main() {
     int n,p;
     float v=0;
