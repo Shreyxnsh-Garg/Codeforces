@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                        //Problem 110A- Nearly Lucky Number
 int main() {
     int r,count=0;
     long long int n;
