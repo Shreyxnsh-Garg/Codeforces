@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                        //Problem 791A - Bear and Big Brother
 int main() {
     int a,b;
     int years = 0;
