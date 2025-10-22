@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                //Problem 677A - Vanya and Fence
 int main() {
     int n,h,a,width=0;
     scanf("%d%d",&n,&h);
