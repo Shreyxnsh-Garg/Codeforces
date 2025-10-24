@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                    //Problem 750A - New Year and Hurry
 int main() {
     int n,k;
     scanf("%d %d",&n,&k);
