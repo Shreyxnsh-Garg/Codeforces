@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                        //Problem 148A - Insomnia Cure
 int main() {
     int k,l,m,n,d;
     scanf("%d%d%d%d%d",&k,&l,&m,&n,&d);
