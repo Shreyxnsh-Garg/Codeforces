@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                        //Problem 1692A - Marathon
 int main() {
     int a,b,c,d;
     int t;
