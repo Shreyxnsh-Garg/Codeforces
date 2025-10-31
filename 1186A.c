@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                            //Problem 1186A - Vus the Cossack and the Contest
 int main()
 {
     int n, m, k;
