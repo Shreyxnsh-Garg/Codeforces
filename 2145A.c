@@ -1,5 +1,5 @@
 #include <stdio.h>
-                                                                        //Problem 2145A - Candies for Nephews
+                                                //Problem 2145A - Candies for Nephews
 int main() {
     int t,n;
     scanf("%d",&t);
