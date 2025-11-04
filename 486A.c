@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                        //Problem 486A - Calculating Function
 int main() {
     long long int n;
     scanf("%lld",&n);
