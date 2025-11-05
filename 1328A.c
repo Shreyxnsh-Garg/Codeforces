@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                    //Problem 1328A-Divisibility Problem
 int main() {
     int t,a,b;
     scanf("%d",&t);
