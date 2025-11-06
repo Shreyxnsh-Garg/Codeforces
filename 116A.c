@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                        //Problem 116A - Tram
 int main() {
     int n,a,b,in=0,cap=0;
     scanf("%d",&n);
