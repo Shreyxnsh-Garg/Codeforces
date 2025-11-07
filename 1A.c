@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                                //Problem 1A - Theatre Square
 int main()
 {
     long long int n, m, a;
