@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                            //Problem 703A - Mishka and Game
 int main() {
     int n,m,c,count1=0,count2=0;
     scanf("%d",&n);
