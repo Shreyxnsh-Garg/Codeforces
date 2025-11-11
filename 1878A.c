@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                    //Problem 1878A - How Much Does Daytona Cost?
 int main()
 {
     int t, n, k;
