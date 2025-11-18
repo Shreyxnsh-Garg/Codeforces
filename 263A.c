@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+                                                                                //Problem 263A - Beautiful Matrix
 int main(){
     int i,j,tempa,tempb,req=0,tot;
  
