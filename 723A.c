@@ -1,5 +1,5 @@
 #include <stdio.h>
-                                                                                    //Problem 723A - The New Year: Meeting Friends
+                                                               //Problem 723A - The New Year: Meeting Friends
 int main() {
     int a,b,c;
     scanf("%d %d %d", &a, &b, &c);
