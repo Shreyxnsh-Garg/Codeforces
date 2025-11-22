@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+                                                                                //Problem 1806A- Walking Master
 int main(){
     int n;
     scanf("%d",&n);
