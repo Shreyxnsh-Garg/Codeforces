@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                            //Problem 1866A - Ambitious Kid
 int main()
 {
     int n,min;
