@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+                                                                             //Problem 1788A - One and Two
 int main(){
     int t,n;
     scanf("%d",&t);
