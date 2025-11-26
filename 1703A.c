@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                                            //Problem 1703A - YES or YES?
 int main()
 {
     int t;
