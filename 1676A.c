@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                //Problem 1676A - Lucky?
 int main() {
     int t;
     scanf("%d",&t);
