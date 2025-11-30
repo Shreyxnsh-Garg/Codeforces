@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                                //Problem 1426A - Floor Number
 int main() {
     int t;
     scanf("%d", &t);
