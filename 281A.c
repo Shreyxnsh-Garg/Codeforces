@@ -1,7 +1,7 @@
 #include <stdio.h>
-
+                                                                                    //Problem 281A - Word Capitalization
 int main() {
-    char s[101];
+    char s[1001];
     scanf("%s", s);
 
     if (s[0] >= 'a' && s[0] <= 'z')
