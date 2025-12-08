@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                                //Problem 1560A - Dislike of Threes
 int main() {
     int t;
     scanf("%d", &t);
