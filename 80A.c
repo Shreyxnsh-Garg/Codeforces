@@ -1,12 +1,11 @@
 #include <stdio.h>
-
+                                                                                    //Problem 80A - Panoramix's Prediction
 int main() {
     int n, m;
     scanf("%d %d", &n, &m);
 
     int next = n + 1;
 
-    // find next prime after n
     while (1) {
         int prime = 1;
         for (int i = 2; i * i <= next; i++) {
