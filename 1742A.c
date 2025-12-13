@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                                //Problem 1742A - Sum
 int main() {
     int t,a,b,c;
     scanf("%d",&t);
