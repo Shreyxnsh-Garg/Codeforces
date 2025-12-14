@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<string.h>
-
+                                                                                                    //Problem 96A - Football
 int main() {
     char str[101];
     scanf("%[^\n]",str);
