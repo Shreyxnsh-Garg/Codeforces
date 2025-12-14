@@ -1,28 +1,36 @@
 #include <stdio.h>
-                                                                            //Problem 1866A - Ambitious Kid
+
 int main()
 {
-    int n,min;
+
+    int n;
     scanf("%d", &n);
     int arr[n];
-    for (int i = 0; i < n; i++)
+
+    for (int j = 0; j < n; j++)
     {
-        scanf("%d", &arr[i]);
-        
-        if (arr[i] < 0)
+        scanf("%d", &arr[j]);
+    }
+    int min;
+    if (arr[0] >= 0)
+        min = arr[0];
+    else
+        min = -arr[0];
+    for (int j = 0; j < n; j++)
+    {
+
+        if (arr[j] >= 0)
         {
-            arr[i] = -arr[i];
+            if (min > arr[j])
+                min = arr[j];
         }
-         min = arr[0];
-        for (int i = 0; i < n; i++)
+        else
         {
-            if (arr[i] < min)
-            {
-                min = arr[i];
-                
-            }
+            if (min > -arr[j])
+                min = -arr[j];
         }
     }
-    printf("%d", min);
+    printf("%d\n", min);
+
     return 0;
 }
