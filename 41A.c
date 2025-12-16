@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-
+                                                                                //Problem 41A - Translation
 int main(){
     char a[101],b[101];
     scanf(" %s",a);
