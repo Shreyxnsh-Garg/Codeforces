@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+                                                                            //Problem 1977A - Little Nikita
 int main()
 {
     int t;
