@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                                //Problem 1709A - Three Doors
 int main() {
     int t, x;
     int arr[3];
