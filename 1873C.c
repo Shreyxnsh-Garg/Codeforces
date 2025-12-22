@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+                                                                            //Problem 1873C - Target Practice 
 int main()
 {
     int t;
