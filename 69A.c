@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                                    //Problem 69A - Young Physicist
 int main() {
     int n;
     scanf("%d", &n);
