@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                                Problem 1791C - Prepend and Append
 int main() {
     int t;
     scanf("%d", &t);
