@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                                    //Problem 1777A - Everybody Likes Good Arrays! 
 int main() {
     int t;
     scanf("%d",&t);
