@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                //Problem 1760B - Atilla's Favorite Problem
 int main() {
     int t;
     scanf("%d",&t);
