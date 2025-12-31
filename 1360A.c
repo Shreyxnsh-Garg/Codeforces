@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                           // Problem 1360A - Minimal Square
 int main() {
     int t;
     scanf("%d",&t);
