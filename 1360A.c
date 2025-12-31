@@ -22,7 +22,7 @@ int main() {
             s = max;
         }
         else{
-            s = min;
+            s = 2*min;
         }
         printf("%d\n",s*s);
 
