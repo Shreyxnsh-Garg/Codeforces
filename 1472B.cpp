@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+                                                                                            //Problem 1472B - Fair Division
 int main() {
     int t;
     cin>>t;
