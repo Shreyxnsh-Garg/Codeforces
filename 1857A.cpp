@@ -1,6 +1,6 @@
 #include <iostream>
 #include <algorithm>
-
+                                                                                    //Problem 1857A - Array Coloring
 using namespace std;
 
 int main() {
