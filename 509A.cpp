@@ -1,7 +1,7 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-
+                                                                                //Problem 509A - Maximum in Table
 int main() {
     int n;
     cin>>n;
