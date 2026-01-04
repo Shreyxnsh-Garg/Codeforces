@@ -1,4 +1,5 @@
 #include<iostream>
+                                      //Problem 1761A - Two Permutations
 using namespace std;
 int main(){
     int t;
