@@ -1,6 +1,6 @@
 #include <iostream>
 #include <algorithm>
-
+                                                                                        //Problem 1829B - Blank Space
 using namespace std;
 
 int main() {
