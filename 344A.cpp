@@ -1,6 +1,6 @@
 #include <iostream>
 #include <algorithm>
-
+                                                                            //Problem 344A - Magnets
 using namespace std;
 
 int main() {
