@@ -1,5 +1,5 @@
 #include <iostream>
-
+                                                                                             //Problem 1374B - Multiply by 2, divide by 6
 using namespace std;
 
 int main()
