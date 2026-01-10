@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+                                                                                    //Problem 1373B - 01 Game
 int main() {
     int t;
     cin>>t;
